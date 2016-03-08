@@ -1,6 +1,6 @@
 # AnalyticVidhya_LoanPrediction
 
-Currently ranked 27th :)
+Ranked 34th :)
 
 More information can be found here!
 
